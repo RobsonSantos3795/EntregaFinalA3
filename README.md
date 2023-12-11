@@ -1,3 +1,11 @@
+COMPONENTES:
+Robson Graça dos Santos (RA12722112379)     
+Matheus Silva de Oliveira (RA 1272227031)
+Luan Gabriel Santos Paim Dias (RA 12722125073) 
+Eraldo de Oliveira da Silva Neto (RA 12722210973)
+Lucca de Serra de Melo Reis (RA 1272116626)
+
+
 Ao realizar o download , após iniciar a abertura do arquivo, é necessário seguir algumas etapas para a execução
 
 Ao abrir o projeto , inicie o terminal e em seguida coloque: 
