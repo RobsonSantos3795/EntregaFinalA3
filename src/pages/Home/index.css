@@ -1,0 +1,66 @@
+h1 {
+    color: aqua;
+    text-align: center;
+    font-size: 35px;
+}
+.subtitulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+.completo1 {
+    text-align: center;
+}
+.completo2 {
+    text-align: center;
+}
+.label1 {
+    font-weight: bold;
+    color: white;
+    
+}
+.label2 {
+    font-weight: bold;
+    color: white;
+    
+}
+input {
+    font-size: 20px;
+    border-radius: 7px;
+    background-color: white;
+}
+button {
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 7px;
+    background-color: yellow;
+    cursor: pointer;
+}
+.amarelo{
+    background-color: yellow;
+    cursor: pointer;
+}
+.vermelho {
+    background-color: red;
+    cursor: pointer;
+}
+.texto {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px 115px;
+    padding: 15px 15px;
+    color: white;
+}
+.menu {
+    background-color: black;
+    color: white;
+    margin: 5px 5px;
+    padding: 10px 5px;
+    text-align: center;
+}
+.catalogo {
+    background-color: rgb(74, 16, 128);
+    margin: 15px 15px;
+    padding: 15px 15px;
+    border-radius: 9px;
+}
